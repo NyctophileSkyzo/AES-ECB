@@ -9,7 +9,7 @@ Python 3 Encryption AES-ECB
   pkg update && pkg upgrade
   pkg install python
   pkg install git
-  git clone https://github.com/NathVaskyloClearesta/AES-ECB
+  git clone https://github.com/Nyctophile/AES-ECB
   cd AES-ECB
   pip install -r requirements.txt
   python AES_AESECB.py
@@ -23,7 +23,7 @@ Python 3 Encryption AES-ECB
   sudo apt update -y && apt upgrade -y
   sudo apt install python-is-python3 -y
   sudo apt install git -y
-  git clone https://github.com/NathVaskyloClearesta/AES-ECB
+  git clone Nyctophile
   cd AES-ECB
   pip install -r requirements.txt
   python AES_AESECB.py
